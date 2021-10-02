@@ -3,8 +3,8 @@
 # Skorpio View
 
 **nome dos alunos:** 
-Felipe Enzo Baptistella | RM 85039
-Luiz Felipe Andrade de Godoi | RM 86130
+Felipe Enzo Baptistella - RM 85039 |
+Luiz Felipe Andrade de Godoi - RM 86130
 
 **Turma:**
 2TDSG
